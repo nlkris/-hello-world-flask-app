@@ -1,0 +1,2 @@
+echo "github_action_key" > .gitignore
+echo "github_action_key.pub" >> .gitignore
