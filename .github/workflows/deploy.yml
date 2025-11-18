@@ -51,4 +51,3 @@ jobs:
           curl -f http://localhost:5000/
           echo 'Deployment successful!'
         "
-        
